@@ -1,5 +1,5 @@
 package String;
-
+/*Reverse Each word in the string */ 
 public class ReverseEachWord {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
